@@ -1,0 +1,4 @@
+answer.txt
+input.txt
+__pycache__/
+*.py[cod]

@@ -1,0 +1,9 @@
+$ cd /
+$ ls
+100 p
+200 q
+dir d
+$ cd d
+$ ls
+1 a
+2 b
