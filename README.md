@@ -15,6 +15,6 @@ not in the repo as requested by AOC. Retrieve inputs from
 [https://adventofcode.com](https://adventofcode.com).
 
 Smaller test files are in the repo and typically called `test.txt` or
-`tiny.txt`.
+`tiny.txt` and are typically the given examples from the AOC site.
 
 Solutions usually take the input file name as the argument: `./part1.rb input.txt`
